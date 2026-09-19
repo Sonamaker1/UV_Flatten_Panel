@@ -26,7 +26,7 @@ Github will handle all the zip file stuff under the green button. Once you get U
 1) Select "flat" lighting for the scene and turn on textures (alternatively select the "diffuse color only" pass on the rendering view -- it's more computationally expensive for the same result though)
 2) Click the "fix colors" button in the plugin to use the correct color space
 3) Add a camera to your scene
-4) Change the expected size of the texture in the plugin settings
+4) Change the expected size of the camera-render texture in the plugin settings (Default is 512 pixels x 512 pixels)
 5) Select both the camera and the blank square plane created in step five of the last set of steps and press "align to camera" button
 6) deselect everything then select the camera and right click and then "align view to camera"
 7) turn off viewing of both the axis and overlays (you should not see the 3D cursor, etc)
